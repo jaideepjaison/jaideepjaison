@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jaideepjaison
+- Working as a Software Engineer in Infinite Computer Solution
 - 👀 I’m interested in Sci-Fi
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me jaison3666@gmail.com
