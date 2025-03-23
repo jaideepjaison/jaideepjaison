@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jaideepjaison
-- Working as a Software Engineer in Infinite Computer Solution
+- Working as a Software Engineer - 1 at Best Buy. Ex : Infinite Computer solutions
+- 🌱 Currently working as a backend developer (Java, Spring boot, microservices, kafka and Intergration testing).
+- Worked also on Angular and React.js as a frontend.
 - 👀 I’m interested in Sci-Fi
-- 🌱 I’m currently learning JAVA
 - 📫 How to reach me jaison3666@gmail.com
 
 <!---
