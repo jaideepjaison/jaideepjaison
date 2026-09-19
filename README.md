@@ -156,23 +156,9 @@ public class Jaison {
 
 ---
 
-## 📊 `SYSTEM STATUS`
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaideepjaison&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepjaison&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-
----
-
 ## 🏆 `ACHIEVEMENTS`
 
 <img src="https://github-profile-trophy.vercel.app/?username=jaideepjaison&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
-
----
-
-## 📈 `ACTIVITY LOG`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaideepjaison&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" />
 
 ---
 
